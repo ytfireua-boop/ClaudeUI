@@ -9,7 +9,7 @@ A beautiful, lightweight UI library for Roblox. Clean API, smooth animations, ze
 Load the library directly in your LocalScript:
 
 ```lua
-local ClaudeUI = loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+local ClaudeUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ytfireua-boop/ClaudeUI/refs/heads/main/ClaudeUI.lua"))()
 ```
 
 > Requires `HttpService` to be enabled in your game settings.
